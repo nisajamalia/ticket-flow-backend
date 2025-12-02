@@ -30,5 +30,7 @@ return [
     'max_age' => 0,
 
     'supports_credentials' => false,
+    'allowed_origins' => ['https://mencoba-ticketflow.vercel.app/'],
+
 
 ];
